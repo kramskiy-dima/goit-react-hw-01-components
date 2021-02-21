@@ -22,4 +22,8 @@ const FriendListItem = ({ props }) => (
   </ul>
 );
 
+FriendListItem.propTypes = {
+  props: PropTypes.arrayOf(PropTypes.object).isRequired,
+};
+
 export default FriendListItem;
