@@ -1,0 +1,17 @@
+.transactionHistory {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title {
+  background-color: rgb(58, 194, 228);
+}
+
+.current {
+  background-color: gainsboro;
+  border: 1px solid black;
+}
+
+.amount {
+  background-color: rgb(130, 207, 226);
+}
